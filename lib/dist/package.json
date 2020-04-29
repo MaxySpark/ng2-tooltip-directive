@@ -1,0 +1,19 @@
+{
+  "name": "ngx-tooltip-directive",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/core": ">=9.0.0",
+    "@angular/common": ">=9.0.0",
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/ngx-tooltip-directive.umd.js",
+  "module": "fesm5/ngx-tooltip-directive.js",
+  "es2015": "fesm2015/ngx-tooltip-directive.js",
+  "esm5": "esm5/ngx-tooltip-directive.js",
+  "esm2015": "esm2015/ngx-tooltip-directive.js",
+  "fesm5": "fesm5/ngx-tooltip-directive.js",
+  "fesm2015": "fesm2015/ngx-tooltip-directive.js",
+  "typings": "ngx-tooltip-directive.d.ts",
+  "metadata": "ngx-tooltip-directive.metadata.json",
+  "sideEffects": false
+}
